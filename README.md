@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**SamRepository25/SamRepository25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm B SIMAK AHMED
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Science & Engineering Student  
+📍 Bangalore, India  
+💻 Passionate about Software Development, Python, Java, AI, Cybersecurity, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- 🐍 Python
+- ☕ Java
+- 🗄️ DBMS
+- 🐧 Linux
+- 🌐 Git & GitHub
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Java
+- C
+- Git & GitHub
+- MySQL
+- MongoDB
+- PyCharm
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+- 🐍 Python Practice Repository
+- 🌐 CodeForge (Portfolio Website)
+- ☕ Java Learning Projects
+
+---
+
+## 🎯 Goals
+
+- Build real-world software projects
+- Improve problem-solving skills
+- Learn AI & Machine Learning
+- Become a Full-Stack Developer
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/SamRepository25
+
+---
+
+⭐ Thanks for visiting my profile!
