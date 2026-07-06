@@ -52,6 +52,9 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/SamRepository25
+- LinkedIn: www.linkedin.com/in/simakahmed
+
+
 
 ---
 
