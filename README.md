@@ -4,7 +4,7 @@
 
 🎓 B.E. Computer Science & Engineering Student  
 📍 Bangalore, India  
-💻 Passionate about Software Development, Python, Java, AI, Cybersecurity, and Web Development.
+ 🧑‍🏫 Passionate about Software Development, Python, Java, AI, Cybersecurity, and Web Development.
 
 ---
 
