@@ -35,7 +35,7 @@
 ## 📂 Featured Projects
 
 - 🐍 Python Practice Repository
-- 🌐 CodeForge (My Portfolio Website)
+- 🌐 CodeForge – Personal Portfolio Website
 - ☕ Java Learning Projects
 
 ---
