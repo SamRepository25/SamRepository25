@@ -3,8 +3,9 @@
 # I'm B SIMAK AHMED
 
 🎓 Computer Science & Engineering Student  
-📍 Bangalore, India  
  🧑‍🏫 Passionate about Software Development, Python, Java, AI, Cybersecurity, and Web Development.
+ 📍 Bangalore, India  
+
 
 ---
 
