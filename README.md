@@ -2,11 +2,10 @@
 
 # I'm B SIMAK AHMED
 
-🎓 Computer Science & Engineering Student  
-👨‍💻 Passionate about Software Development, Python, Java, AI, Cybersecurity, and Web Development.··
-📍 Bangalore, India
- 
+🎓 Computer Science & Engineering Student
 
+👨‍💻 Passionate about Software Development, Python, Java, AI, Cybersecurity, and Web Development.<br>
+📍 Bangalore, India
 
 ---
 
@@ -22,41 +21,40 @@
 
 ## 🛠️ Technologies & Tools
 
-- Python
-- Java
-- C
-- Git & GitHub
-- MySQL
-- MongoDB
-- PyCharm
-- IntelliJ IDEA
-- VS Code
+- 🐍 Python
+- ☕ Java
+- 💻 C
+- 🌐 Git & GitHub
+- 🗄️ MySQL
+- 🍃 MongoDB
+- 🐍 PyCharm
+- 💡 IntelliJ IDEA
+- 📝 VS Code
 
 ---
 
 ## 📂 Featured Projects
 
-- 🐍 Python Practice Repository
 - 🌐 CodeForge – Personal Portfolio Website
+- 🛡️ WebShield – Website Security Analyzer *(In Development)*
+- 🐍 Python Practice Repository
 - ☕ Java Learning Projects
 
 ---
 
 ## 🎯 Goals
 
-- Build real-world software projects
-- Improve problem-solving skills
-- Learn AI & Machine Learning
-- Become a Full-Stack Developer
+- 🚀 Build real-world software projects
+- 🧩 Improve problem-solving skills
+- 🤖 Learn AI & Machine Learning
+- 🌐 Become a Full-Stack Developer
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/SamRepository25
-- LinkedIn: www.linkedin.com/in/simakahmed
-
-
+- **GitHub:** https://github.com/SamRepository25
+- **LinkedIn:** https://www.linkedin.com/in/simakahmed
 
 ---
 
