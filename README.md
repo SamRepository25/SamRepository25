@@ -45,7 +45,7 @@
 ## 📂 Featured Projects
 
 - 🌐 **CodeForge** — Personal Portfolio Website
-- 🛡️ **WebShield** — Website Security Analyzer
+- 🛡️ **HardenHQ** — Website Security Analyzer
 - 🖥️ **Linux System Monitor** — Real-Time System Resource Monitoring Tool
 - 🐍 **Python Practice Repository**
 - ☕ **Java Learning Projects**
