@@ -57,7 +57,7 @@
 - 🚀 Build impactful real-world software projects
 - 💡 Improve problem-solving and software engineering skills
 - 🤖 Learn Artificial Intelligence & Machine Learning
-- 🌐 Become a Full-Stack Software Developer
+- 🧑‍💻 Become a Skilled Software Engineer
 
 ---
 
