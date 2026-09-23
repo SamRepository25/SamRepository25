@@ -64,7 +64,7 @@
 ## 📫 Connect with Me
 
 - **Portfolio Website:** [CodeForge](https://codeforgedev.vercel.app/)
-- **LinkedIn:** https://www.linkedin.com/in/simakahmed
+- **LinkedIn:** [B SIMAK AHMED](https://www.linkedin.com/in/simakahmed)
 
 ---
 
