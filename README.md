@@ -88,7 +88,7 @@
 
 - 🌐 **Portfolio:** [CodeForgeDev](https://codeforgedev.vercel.app/)
 - 💼 **LinkedIn:** [B SIMAK AHMED](https://www.linkedin.com/in/simakahmed)
-- 📧 **Mail ID:** [My Outlook](simakahmed@outlook.com)
+- 📧 **Mail ID:** [My Outlook](mailto:simakahmed@outlook.com)
 
 ---
 
