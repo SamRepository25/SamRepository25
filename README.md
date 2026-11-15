@@ -2,7 +2,7 @@
 
 # I'm **B SIMAK AHMED**
 
-🎓 Computer Science & Engineering Student (2024–2028)
+🎓 Computer Science & Engineering Student
 
 ☁️ Interested in **Cloud Computing, IT Infrastructure, System Administration, Networking & Cybersecurity**
 
