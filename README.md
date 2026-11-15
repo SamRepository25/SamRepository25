@@ -2,69 +2,93 @@
 
 # I'm **B SIMAK AHMED**
 
-🎓 **Computer Science & Engineering Student**
+🎓 Computer Science & Engineering Student (2024–2028)
 
-👨‍💻 Passionate about **Software Development, Python, Java, AI, Cybersecurity, and Backend Development**
+☁️ Interested in **Cloud Computing, IT Infrastructure, System Administration, Networking & Cybersecurity**
 
 📍 Bangalore, India
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Exploring
 
-- 🐍 Python
-- ☕ Java
-- 🗄️ Database Management Systems (DBMS)
-- 🐧 Linux
-- 🌐 Git & GitHub
+- ☁️ Microsoft Azure & Cloud Administration
+- 🖥️ IT Infrastructure & System Administration
+- 🌐 Computer Networking & Network Administration
+- 🔐 Cybersecurity & Information Security
+- 👥 Identity & Access Management (IAM)
+- 🏢 Microsoft 365 Administration
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Interests & Tools
 
-### 💻 Programming Languages
+### ☁️ Cloud Computing
+- Microsoft Azure
+- Azure Virtual Machines
+- Azure Storage
+- Azure Networking
 
-- 🐍 Python
-- ☕ Java
-- 💻 C
+### 🌐 Networking
+- Cisco Packet Tracer
+- TCP/IP
+- Routing & Switching
+- Network Fundamentals
 
-### 🗄️ Databases
+### 🖥️ Operating Systems & Infrastructure
+- Windows 11
+- Linux
+- System Administration
+- IT Operations
 
-- MySQL
-- MongoDB
+### 🔐 Security
+- Cybersecurity Fundamentals
+- Vulnerability Management
+- Website Security
+- Access Control & Security Assessment
 
-### 🛠️ Tools & IDEs
-
+### 🛠️ Tools & Platforms
+- Microsoft Azure Portal
 - Git & GitHub
 - Visual Studio Code
-- IntelliJ IDEA
-- PyCharm
+- Cisco Packet Tracer
 
 ---
 
 ## 📂 Featured Projects
 
-- 🌐 **CodeForge** — Personal Portfolio Website
-- 🛡️ **HardenHQ** — Website Security Analyzer
-- 🖥️ **Linux System Monitor** — Real-Time System Resource Monitoring Tool
-- 🐍 **Python Practice Repository**
-- ☕ **Java Learning Projects**
+- 🔍 **[VSAT](https://github.com/SamRepository25/Vulnerability-Security-Assessment-Tracker)** — Vulnerability & Security Assessment Tracker
+- 🖥️ **Linux System Monitor** — System Resource Monitoring Tool
+- 🌐 **[CodeForge](https://github.com/SamRepository25/CodeForge)** — Personal Portfolio Platform
+
+---
+
+## 🎯 Career Interests
+
+- ☁️ Cloud Administrator
+- 🖥️ System Administrator
+- 🌐 Network Administrator
+- 🔐 Identity & Access Administrator
+- 🏢 IT Operations Analyst
+- 💻 Cloud Support Engineer
 
 ---
 
 ## 🎯 Goals
 
-- 🚀 Build impactful real-world software projects
-- 💡 Improve problem-solving and software engineering skills
-- 🤖 Learn Artificial Intelligence & Machine Learning
-- 🧑‍💻 Become a Skilled Software Engineer
+- Gain practical experience in cloud infrastructure and administration.
+- Develop strong networking and troubleshooting skills.
+- Explore Microsoft Azure and enterprise IT environments.
+- Understand cybersecurity and infrastructure management.
+- Build a career in Cloud Computing and IT Operations.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- **Portfolio Website:** [CodeForgeDev](https://codeforgedev.vercel.app/)
-- **LinkedIn:** [B SIMAK AHMED](https://www.linkedin.com/in/simakahmed)
+- 🌐 **Portfolio:** [CodeForgeDev](https://codeforgedev.vercel.app/)
+- 💼 **LinkedIn:** [B SIMAK AHMED](https://www.linkedin.com/in/simakahmed)
+- 📧 **Mail ID:** [My Outlook](simakahmed@outlook.com)
 
 ---
 
