@@ -57,7 +57,7 @@
 
 ## 📂 Featured Projects
 
-- 🖥️ **Linux System Monitor** — System Resource Monitoring Tool
+- 🖥️ **[Linux System Monitor](https://github.com/SamRepository25/Linux-System-Monitor)** — System Resource Monitoring Tool
 - 🔍 **[VSAT](https://github.com/SamRepository25/Vulnerability-Security-Assessment-Tracker)** — Vulnerability & Security Assessment Tracker
 - 🌐 **[CodeForge](https://github.com/SamRepository25/CodeForge)** — Personal Portfolio Platform
 
