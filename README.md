@@ -59,7 +59,7 @@
 
 - 🖥️ **[Linux System Monitor](https://github.com/SamRepository25/Linux-System-Monitor)** — System Resource Monitoring Tool
 - 🔍 **[VSAT](https://github.com/SamRepository25/Vulnerability-Security-Assessment-Tracker)** — Vulnerability & Security Assessment Tracker
-- 🌐 **[ThreatScope](https://github.com/SamRepository25/ThreatScope)** — Cybersecurity Intelligence Assistant Bot
+- 🤖 **[ThreatScope](https://github.com/SamRepository25/ThreatScope)** — Cybersecurity Intelligence Assistant Bot
 
 ---
 
